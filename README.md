@@ -1,7 +1,10 @@
 # NFT-Simplified
 
 Fungible vs Non Fungible
+
 What is NFT ?
+
+
 Why we need NFT ?
 Features of NFT
 Advantages of NFT
